@@ -1,0 +1,14 @@
+C:\Interview Projects\DelegateExample\DelegateExample\bin\Debug\net7.0\DelegateExample.exe
+C:\Interview Projects\DelegateExample\DelegateExample\bin\Debug\net7.0\DelegateExample.deps.json
+C:\Interview Projects\DelegateExample\DelegateExample\bin\Debug\net7.0\DelegateExample.runtimeconfig.json
+C:\Interview Projects\DelegateExample\DelegateExample\bin\Debug\net7.0\DelegateExample.dll
+C:\Interview Projects\DelegateExample\DelegateExample\bin\Debug\net7.0\DelegateExample.pdb
+C:\Interview Projects\DelegateExample\DelegateExample\obj\Debug\net7.0\DelegateExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Interview Projects\DelegateExample\DelegateExample\obj\Debug\net7.0\DelegateExample.AssemblyInfoInputs.cache
+C:\Interview Projects\DelegateExample\DelegateExample\obj\Debug\net7.0\DelegateExample.AssemblyInfo.cs
+C:\Interview Projects\DelegateExample\DelegateExample\obj\Debug\net7.0\DelegateExample.csproj.CoreCompileInputs.cache
+C:\Interview Projects\DelegateExample\DelegateExample\obj\Debug\net7.0\DelegateExample.dll
+C:\Interview Projects\DelegateExample\DelegateExample\obj\Debug\net7.0\refint\DelegateExample.dll
+C:\Interview Projects\DelegateExample\DelegateExample\obj\Debug\net7.0\DelegateExample.pdb
+C:\Interview Projects\DelegateExample\DelegateExample\obj\Debug\net7.0\DelegateExample.genruntimeconfig.cache
+C:\Interview Projects\DelegateExample\DelegateExample\obj\Debug\net7.0\ref\DelegateExample.dll
